@@ -4,5 +4,9 @@
 ### Most of it is just following along with a tutorial but with my own styles added in
 
 
+![](home.png)
 
+![](stock.png)
+
+![](strategy.png)
 
