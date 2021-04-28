@@ -3,10 +3,9 @@
 ### This is my first go at making a website using HTML and CSS.
 ### Most of it is just following along with a tutorial but with my own styles added in
 
+![](stock.png)
 
 ![](home.png)
-
-![](stock.png)
 
 ![](strategy.png)
 
